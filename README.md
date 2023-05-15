@@ -1,11 +1,4 @@
-<a name="readme-top"></a>
 
-
-<div align="center">
-
-  <h3><b>OOP SCHOOL LIBRARY</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
