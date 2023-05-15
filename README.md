@@ -3,6 +3,9 @@
 
 <div align="center">
 
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
   <h3><b>OOP SCHOOL LIBRARY</b></h3>
 
 </div>
@@ -18,6 +21,11 @@
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -30,9 +38,11 @@
 
 # 📖 [OOP School Library] <a name="about-project"></a>
 
-> OOP School Library is a ruby project used to record books stored in a library and who borrows them. The app allows users to add new students or teachers, new books, and save records of who borrowed a given book and the date it was borrowed.
+> OOP School Library is a ruby project. It is a database that allows entry of persons data.
 
-## 🛠 Built With <a name="built-with"></a>
+**[OOP School Library]** is a ruby project. It is a database that allows entry of persons data.
+
+## 🛠 Built With <a name="built-with">Ruby</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -60,7 +70,7 @@ To get a local copy up and running, follow these steps.
 
 - GitHub: [@githubhandle](https://github.com/danielmatama)
 - Twitter: [@twitterhandle](https://twitter.com/danmatama)
-- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/daniel-matama-mwebesa/l)
+- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/danielmatamamwebesa/l)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -69,8 +79,7 @@ To get a local copy up and running, follow these steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Setup associations
-- Add basic UI
+> To be added later
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,7 +106,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank Microverse
+> We would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +114,7 @@ If you like this project...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
