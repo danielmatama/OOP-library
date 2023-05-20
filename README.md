@@ -85,7 +85,7 @@ cd School_Library
 
 - GitHub:(https://github.com/danielmatama)
 - Twitter: (https://twitter.com/danmatama)
-- LinkedIn:(https://www.linkedin.com/in/daniel-matama-mwebesa/)
+- LinkedIn:(https://www.linkedin.com/in/daniel-matama/)
 
 <!-- FUTURE FEATURES -->
 
