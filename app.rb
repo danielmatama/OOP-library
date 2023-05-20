@@ -20,12 +20,12 @@ class App
     end
   end
 
-  def create_teacher(age, specialization, parent_permission, name)
-    @peoples << Teacher.new(age, specialization, parent_permission: parent_permission, name: name)
+  def create_teacher(age, specialization, name)
+    @peoples << Teacher.new(age, specialization, name: name)
   end
 
-  def create_student(age, name, parent_permission)
-    @peoples << Student.new(age, name: name, parent_permission: parent_permission)
+  def create_student(age, name)
+    @peoples << Student.new(age, name: name)
   end
 
   def create_book
