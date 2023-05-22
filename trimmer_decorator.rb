@@ -1,23 +1,12 @@
-require_relative 'decorator'
-require_relative 'person'
-require_relative 'capitalize_decorator'
+require_relative('./base_decorator')
 
-class TrimmerDecorator < Decorator
-  def initialize(nameable)
-    super
-    @nameable = nameable
+class Teacher < Person
+  def initialize(specialization, age, name = 'Unknown', parent_permission: true)
+    super(age, name, parent_permission: parent_permission)
+    @specialization = specialization
   end
 
-  def correct_name
-    super[0...10]
+  def can_use_services?
+    true
   end
 end
-
-person = Person.new(22, 'maximilianus')
-puts person.correct_name
-
-capitalized_person = CapitalizeDecorator.new(person)
-puts capitalized_person.correct_name
-
-capitalized_trimmed_person = TrimmerDecorator.new(capitalized_person)
-puts capitalized_trimmed_person.correct_name
