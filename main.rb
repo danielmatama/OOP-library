@@ -1,10 +1,9 @@
-require_relative 'app'
-require_relative 'handler'
+require './app'
+require './handler'
 
 class LibrarySelf < Handler
   def start_console
     puts 'welcome to our school Library App!'
-
     until list_of_options
       input = gets.chomp
       if input == '7'
@@ -49,6 +48,7 @@ end
 
 def main
   app = LibrarySelf.new
+  app.start
   app.start_console
 end
 

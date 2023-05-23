@@ -1,12 +1,7 @@
-require_relative('./base_decorator')
+require_relative 'decorator'
 
-class Teacher < Person
-  def initialize(specialization, age, name = 'Unknown', parent_permission: true)
-    super(age, name, parent_permission: parent_permission)
-    @specialization = specialization
-  end
-
-  def can_use_services?
-    true
+class TrimmerDecorator < Decorator
+  def correct_name
+    @nameable.correct_name.split.first(10).join(' ')
   end
 end
