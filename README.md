@@ -73,8 +73,8 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  git clone https://github.com/QueenterJuma/School_Library.git
-cd School_Library
+  git clone https://github.com/danielmatama/OOP-library.git
+cd oop_library
 ```
 
 <p align="right">(<a href="#readme-top"></a>)</p>
@@ -83,11 +83,18 @@ cd School_Library
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Queenter Juma**
+👤 **Daniel Matama**
 
 - GitHub:(https://github.com/danielmatama)
 - Twitter: (https://twitter.com/danmatama)
 - LinkedIn:(https://www.linkedin.com/in/danielmatama-mwebesa/)
+
+👤 **Damilare Adepoju**
+
+- GitHub: [@githubhandle](https://github.com/adamilare)
+- Twitter: [@twitterhandle](https://twitter.com/mailtodare)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/damilareadepoju)
+- GitUp Page: [My Page](https://adamilare.github.io/)
 
 <!-- FUTURE FEATURES -->
 
@@ -105,7 +112,7 @@ cd School_Library
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/QueenterJuma/School_Library/issues).
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top"></a>)</p>
 
