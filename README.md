@@ -19,7 +19,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -46,10 +45,13 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Add Person, Student, and Teacher classes]**
+- **[Decorator" design pattern]**
+- **[set up associations]**
+- **[add basic UI]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -71,11 +73,11 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  git clone https://github.com/danielmatama/oop-library.git
-cd School_Library
+  git clone https://github.com/danielmatama/OOP-library.git
+cd oop_library
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
 <!-- AUTHORS -->
 
@@ -85,20 +87,24 @@ cd School_Library
 
 - GitHub:(https://github.com/danielmatama)
 - Twitter: (https://twitter.com/danmatama)
-- LinkedIn:(https://www.linkedin.com/in/daniel-matama-mwebesa/)
+- LinkedIn:(https://www.linkedin.com/in/danielmatama-mwebesa/)
+
+👤 **Damilare Adepoju**
+
+- GitHub: [@githubhandle](https://github.com/adamilare)
+- Twitter: [@twitterhandle](https://twitter.com/mailtodare)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/damilareadepoju)
+- GitUp Page: [My Page](https://adamilare.github.io/)
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [] **[Decorator" design pattern]**
-- [] **[set up associations]**
-- [] **[add basic UI]**
 - [] **[refactor your code]**
 - [] **[preserve data]**
 - [] **[unit tests]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -106,9 +112,9 @@ cd School_Library
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/QueenterJuma/School_Library/issues).
+Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
 <!-- SUPPORT -->
 
@@ -116,7 +122,7 @@ Feel free to check the [issues page](https://github.com/QueenterJuma/School_Libr
 
 > If the project was great as your view, don't hesitate to share and give it a star.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -124,7 +130,7 @@ Feel free to check the [issues page](https://github.com/QueenterJuma/School_Libr
 
 > I would like to thank [the whole Microverse Community](https://www.microverse.org/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
 
 <!-- LICENSE -->
 
@@ -132,4 +138,4 @@ Feel free to check the [issues page](https://github.com/QueenterJuma/School_Libr
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"></a>)</p>
