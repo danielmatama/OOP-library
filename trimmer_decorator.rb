@@ -1,8 +1,7 @@
-require_relative('./base_decorator')
+require_relative 'decorator'
 
-class TrimmerDecorator < BaseDecorator
+class TrimmerDecorator < Decorator
   def correct_name
-    name = @nameable.correct_name
-    name.slice(0, 10) if name.length > 10
+    @nameable.correct_name.split.first(10).join(' ')
   end
 end
