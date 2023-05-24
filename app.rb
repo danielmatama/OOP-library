@@ -5,7 +5,7 @@ require './student'
 require './classroom'
 require './rental'
 require 'json'
-require './data/data'
+require './modules/data'
 
 class App
   def initialize

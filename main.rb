@@ -21,8 +21,8 @@ class LibrarySelf < Handler
     puts '2 - list all people'
     puts '3 - create a person'
     puts '4 - create a book'
-    puts '5 - create a renter'
-    puts '6 - list all renters for a given person id'
+    puts '5 - create a rental'
+    puts '6 - list all rentals for a given person id'
     puts '7 - Exit'
   end
 

@@ -1,5 +1,6 @@
 class Handler
   def initialize
+    check_data_files
     @books = []
     @persons = []
     @rentals = []
