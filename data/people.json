@@ -20,19 +20,31 @@
   {
     "Domain": "Student",
     "name": null,
-    "age": "dfbdfgf",
+    "age": null,
     "parent_permission": true
   },
   {
     "Domain": "Teacher",
-    "name": "rgergregr",
-    "age": "gvgtgtfgv",
-    "specialization": 5665
+    "name": 5665,
+    "age": "rgergregr",
+    "specialization": "gvgtgtfgv"
   },
   {
     "Domain": "Student",
-    "name": "Tash",
-    "age": 34,
+    "name": null,
+    "age": "Tash",
     "parent_permission": true
+  },
+  {
+    "Domain": "Student",
+    "name": "fdef",
+    "age": 23,
+    "parent_permission": true
+  },
+  {
+    "Domain": "Teacher",
+    "name": "ere",
+    "age": 34,
+    "specialization": "fref"
   }
 ]

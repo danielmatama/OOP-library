@@ -8,5 +8,10 @@
     "Date": "4000-09-09",
     "book_index": 0,
     "person_index": 4
+  },
+  {
+    "Date": "2020-10-10",
+    "book_index": 2,
+    "person_index": 7
   }
 ]

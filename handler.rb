@@ -86,7 +86,7 @@ class Handler
     print 'Enter title: '
     title = gets.chomp
     print 'Enter author: '
-    author = gets
+    author = gets.chomp
     book = Book.new(title, author)
     @books.push(book)
     puts "Book #{title} created successfully."
